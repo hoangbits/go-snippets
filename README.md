@@ -4,7 +4,7 @@
 ### Table of Contents
 | No. | Questions |
 |---- | ---------
-|1  | [How to generate a random bool](#How-to-generate-random-bool)|
+|1  | [How to generate a random bool](#How-to-generate-a-random-bool)|
 |2  | 
 |3  | 
 |4  | 
